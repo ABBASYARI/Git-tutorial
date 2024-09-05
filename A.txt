@@ -1,2 +1,3 @@
 here is A.txt on the board
 edit A.txt
+new line
