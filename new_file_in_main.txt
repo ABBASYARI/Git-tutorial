@@ -1,2 +1,6 @@
+
+
+
 this is a new line
 
+the mentioned bug fixed
